@@ -1,0 +1,1 @@
+# An NPM package to get Divisions, Districts and Thana/Upazilla of Bangladesh.

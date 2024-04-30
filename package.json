@@ -1,11 +1,12 @@
 {
-  "name": "thikana",
-  "version": "1.0.0",
-  "description": "An npm package to get Divisions, Districts and Thana/Upazilla of Bangladesh.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "nazmuShakib",
-  "license": "ISC"
+	"name": "thikana",
+	"version": "1.0.0",
+	"description": "An npm package to get Divisions, Districts and Thana/Upazilla of Bangladesh.",
+	"main": "index.js",
+	"scripts": {
+		"dev": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "nazmuShakib",
+	"license": "ISC"
 }
